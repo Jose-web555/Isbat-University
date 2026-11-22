@@ -1,0 +1,78 @@
+
+/* General page styling */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Header styling */
+header {
+    background-color: #003366;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Navigation styling */
+nav {
+    margin-top: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #ffcc00;
+    text-decoration: underline;
+}
+
+/* Hero section */
+#home {
+    padding: 20px;
+    text-align: center;
+}
+
+#home img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+
+#home p {
+    font-size: 18px;
+    color: #003366;
+}
+
+/* Main content */
+main {
+    padding: 20px;
+}
+
+/* Section headings */
+h2 {
+    color: #003366;
+}
+
+/* Paragraphs */
+p {
+    line-height: 1.6;
+}
+
+/* Programmes list */
+ul {
+    line-height: 2;
+}
+
+/* Footer styling */
+footer {
+    background-color: #003366;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
